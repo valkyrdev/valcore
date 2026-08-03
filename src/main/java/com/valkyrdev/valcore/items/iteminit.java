@@ -6,6 +6,7 @@ public class iteminit {
         thermalingots.init();
         craftingcomps.init();
         enderioingots.init();
+        valcoin.init();
     }
 
 

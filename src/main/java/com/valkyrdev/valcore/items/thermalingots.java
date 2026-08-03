@@ -8,14 +8,14 @@ import com.valkyrdev.valcore.valcore;
 public class thermalingots {
     public static void init() {
         Item invarcomp = new Item().setUnlocalizedName("invarcomp").setCreativeTab(CreativeTabs.tabMisc).setTextureName(valcore.MODID + ":invarcomp");
-        GameRegistry.registerItem(invarcomp, invarcomp.getUnlocalizedName());
+        GameRegistry.registerItem(invarcomp, "invarcomp");
         Item signaliumcomp = new Item().setUnlocalizedName("signaliumcomp").setCreativeTab(CreativeTabs.tabMisc).setTextureName(valcore.MODID + ":signaliumcomp");
-        GameRegistry.registerItem(signaliumcomp, signaliumcomp.getUnlocalizedName());
+        GameRegistry.registerItem(signaliumcomp, "signaliumcomp");
         Item enderiumcomp = new Item().setUnlocalizedName("enderiumcomp").setCreativeTab(CreativeTabs.tabMisc).setTextureName(valcore.MODID + ":enderiumcomp");
-        GameRegistry.registerItem(enderiumcomp, enderiumcomp.getUnlocalizedName());
+        GameRegistry.registerItem(enderiumcomp, "enderiumcomp");
         Item solderingot = new Item().setUnlocalizedName("solderingot").setCreativeTab(CreativeTabs.tabMisc).setTextureName(valcore.MODID + ":solderingot");
-        GameRegistry.registerItem(solderingot, solderingot.getUnlocalizedName());
+        GameRegistry.registerItem(solderingot, "solderingot");
         Item cupronickel = new Item().setUnlocalizedName("cupronickel").setCreativeTab(CreativeTabs.tabMisc).setTextureName(valcore.MODID + ":cupronickel");
-        GameRegistry.registerItem(cupronickel, cupronickel.getUnlocalizedName());
+        GameRegistry.registerItem(cupronickel, "cupronickel");
     }
 }
