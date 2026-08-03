@@ -7,13 +7,13 @@ import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
  import com.valkyrdev.valcore.items.iteminit;
 
- @Mod(modid = "com/valkyrdev", name = "Valcore", version = "1.0.0")
+ @Mod(modid = "valcore", name = "Valcore", version = "1.0.0")
  public class valcore {
      public static final String NAME = "Valcore";
      public static final String MODID = "valcore";
      public static final String VERSION = "1.1.0";
 
-     @Mod.Instance("com/valkyrdev")
+     @Mod.Instance("valcore")
      public static valcore instance;
   @EventHandler
    public void preInit(FMLPreInitializationEvent event) {
