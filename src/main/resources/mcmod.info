@@ -1,0 +1,16 @@
+[
+{
+  "modid": "${modId}",
+  "name": "${modName}",
+  "description": "core mod for the Valkyrtech modpack",
+  "version": "${modVersion}",
+  "mcversion": "${minecraftVersion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Quindao"],
+  "credits": "Reika kalseki for making dragonapi aswell as rotarycraft, aswell as the devs of GTNH for info on how to setup a dev environment",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
