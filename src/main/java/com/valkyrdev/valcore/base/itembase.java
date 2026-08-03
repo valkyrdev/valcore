@@ -1,4 +1,4 @@
-package valkyrdev.base;
+package com.valkyrdev.valcore.base;
 
 import cpw.mods.fml.common.registry.GameRegistry;
 
@@ -7,7 +7,6 @@ import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
-import valkyrdev.valcore;
 
 
 public class itembase extends Item {

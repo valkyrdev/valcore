@@ -1,9 +1,9 @@
-package valkyrdev.items;
+package com.valkyrdev.valcore.items;
 
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
-import valkyrdev.valcore;
+import com.valkyrdev.valcore.valcore;
 
 public class enderioingots {
 
